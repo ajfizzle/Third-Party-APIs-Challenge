@@ -1,5 +1,5 @@
 ## Third-Party-APIs-Challenge
-Bootcamp HTML /CSS exercise - Module 5 Challenge
+Module 5 Challenge
 
 
 ## Third-Party APIs Challenge: Task Board
